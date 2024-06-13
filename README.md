@@ -1,3 +1,1 @@
-- 👋 Hi, my name is Rifki Salim
-- 👀 I’m interested in Software, Web Development and IoT.
-- 🌱 I’m currently mastering ReactJS and Remix as well as TailwindCSS.
+
